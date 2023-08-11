@@ -1,0 +1,1 @@
+null_table <- as.data.table(matrix(unlist(mz_and_mf), ncol = 2, byrow = TRUE))

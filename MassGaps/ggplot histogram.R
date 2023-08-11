@@ -1,0 +1,1 @@
+ggplot(mapping = aes(mass_diff_experimental)) + geom_histogram(boundary = 0, color = "black", fill = "green", binwidth = 50)

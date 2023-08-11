@@ -1,0 +1,1 @@
+adjacent_matrices <- expand.grid(a = mm_two, b = mm_one)
