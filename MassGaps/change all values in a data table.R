@@ -1,0 +1,1 @@
+sapply(dt, function(x) ifelse(x == 1, TRUE, FALSE))

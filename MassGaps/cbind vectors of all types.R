@@ -1,0 +1,1 @@
+as.data.table(cbind(vector1, vector2))
